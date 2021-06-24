@@ -1,0 +1,12 @@
+@import './variables.scss';
+@import './mixin.scss';
+@import './element-variables.scss';
+$--color-primary: purple;
+//使得数据加载出来之前不显示{{}}
+[v-cloak] {
+  display: none;
+}
+
+.test_class {
+  color: #fff;
+}
