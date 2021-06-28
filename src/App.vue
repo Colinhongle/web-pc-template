@@ -1,7 +1,7 @@
 <!--
  * @Author: wgj
  * @Date: 2021-05-31 11:05:08
- * @LastEditTime: 2021-06-10 10:24:56
+ * @LastEditTime: 2021-06-28 14:47:41
  * @LastEditors: wgj
  * @Description: 
 -->
@@ -18,7 +18,7 @@
   </div>
 </template>
 <script>
-import Loading from '@/components/loading';
+import Loading from '@/components/Loading';
 
 export default {
   name: 'app',

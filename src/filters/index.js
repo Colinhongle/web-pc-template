@@ -1,4 +1,11 @@
-export function getGradeName(grade) {
+/*
+ * @Author: wgj
+ * @Date: 2021-05-31 11:16:51
+ * @LastEditTime: 2021-06-28 15:17:56
+ * @LastEditors: wgj
+ * @Description: 
+ */
+const getGradeName = function (grade) {
     let gradeName = '其他'
     switch (grade) {
       case 'G01':
@@ -40,3 +47,6 @@ export function getGradeName(grade) {
     }
     return gradeName
   }
+export {
+    getGradeName
+};

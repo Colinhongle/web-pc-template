@@ -1,5 +1,12 @@
+/*
+ * @Author: wgj
+ * @Date: 2021-06-16 10:10:36
+ * @LastEditTime: 2021-06-28 13:49:17
+ * @LastEditors: wgj
+ * @Description: 
+ */
 module.exports = {
-  title: 'Vue Element Admin',
+  title: 'gfy-pc-template',
 
   /**
    * @type {boolean} true | false
