@@ -27,7 +27,7 @@
 
 ```sh
 #克隆
-git clone http://39.108.58.208:8081/root/gfy-pc-template.git
+git clone https://github.com/web-vue-template/web-pc-template.git
 
 #进入gfy-pc-template文件夹
 cd gfy-pc-template
